@@ -11,4 +11,4 @@
 
 ## 🌐 Method for Adding Achievements to Games (by Igor Lobo)
 
-[![Watch the video on YouTube](https://img.youtube.com/vi/vRDE-fa44xA/hqdefault.jpg)](https://www.youtube.com/watch?v=vRDE-fa44xA)
+▶️ **[Click here to watch the tutorial](https://www.youtube.com/watch?v=tdD_ekrTFfk)**
