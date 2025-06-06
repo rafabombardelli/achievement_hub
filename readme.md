@@ -11,7 +11,7 @@
 
 ### One-Click Method
 
-1. [Install the source directly via this link](hydralauncher://install-source?urls=https://achievementhub.netlify.app/achievement.json).  
+1. hydralauncher://install-source?urls=https://achievementhub.netlify.app/achievement.json .  
 2. Open **Hydra Launcher**.  
 3. Press `Validate` and `Import`.
 
