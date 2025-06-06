@@ -11,7 +11,7 @@
 
 or 
 
-1. [Click here](hydralauncher://install-source?urls=https://achievementhub.netlify.app/achievement.json).
+1. [Click here](hydralauncher://install-source?urls=https://achievementhub.netlify.app/achievement.json) .
 2. Open Hydra.
 3. Press `Validate` and `Import`.
 
