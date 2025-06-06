@@ -9,6 +9,7 @@
 3. Paste the following URL: https://achievementhub.netlify.app/achievement.json .
 4. Press `Validate` and `Import`.
 
-## 🌐 Method for Adding Achievements to Games (by Igor Lobo)
+## 🌐 How to Add Achievements to Games
 
-▶️ **[Click here to watch the tutorial](https://www.youtube.com/watch?v=tdD_ekrTFfk)**
+Tutorial by **Igor Lobo**:  
+▶️ [Watch on YouTube](https://www.youtube.com/watch?v=tdD_ekrTFfk)
