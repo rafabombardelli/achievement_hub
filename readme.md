@@ -9,12 +9,6 @@
 3. Paste the following URL: https://achievementhub.netlify.app/achievement.json .
 4. Press `Validate` and `Import`.
 
-### One-Click Method
-
-1. hydralauncher://install-source?urls=https://achievementhub.netlify.app/achievement.json .  
-2. Open **Hydra Launcher**.  
-3. Press `Validate` and `Import`.
-
 ## 🌐 How to Add Achievements to Games
 
 Tutorial by **Igor Lobo**:  
