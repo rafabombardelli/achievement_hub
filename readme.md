@@ -4,9 +4,9 @@
 
 ## 📦 Installation
 
-1. Open **Hydra Launcher**.
-2. Go to `Settings` > `Download Sources` > `Add Source`.
-3. Paste the following URL: https://achievementhub.netlify.app/achievement.json .
+1. [Open this link](https://rafabombardelli.github.io/achievementhub-page)
+2. Press `Get Source`.
+3. Press `Open Hydra`.
 4. Press `Validate` and `Import`.
 
 ## 🌐 How to Add Achievements to Games
