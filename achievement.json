@@ -232,6 +232,14 @@
             ],
             "uploadDate": "2025-06-10T18:51:02.000Z",
             "fileSize": "0.5 GB"
+        },
+        {
+            "title": "Forza Horizon 4 v1.478.564.0 [online-fix.me]",
+            "uris": [
+                "magnet:?xt=urn:btih:52ef2e285635a59c0e49d6544e128ec97116de3a&dn=Forza+Horizon+4&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+            ],
+            "uploadDate": "2025-06-10T19:24:25.000Z",
+            "fileSize": "91.3 GB"
         }
     ]
 }
