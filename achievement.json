@@ -208,6 +208,22 @@
             ],
             "uploadDate": "2025-06-10T16:01:29.000Z",
             "fileSize": "6.78 GB"
+        },
+        {
+            "title": "Sekiro: Shadows Die Twice - GOTY Edition v1.06 (CODEX) [gamepcfull.com]",
+            "uris": [
+                "magnet:?xt=urn:btih:209ae13a5ed5e684b42dbbab7e3030e57f1e3f77&dn=Sekiro.Shadows.Die.Twice.GOTY.Edition-CODEX&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce"
+            ],
+            "uploadDate": "2025-06-10T18:39:18.000Z",
+            "fileSize": "13.96 GB"
+        },
+        {
+            "title": "Terraria v1.4.4.9 [online-fix.me]",
+            "uris": [
+                "magnet:?xt=urn:btih:365e75679cc6340d2937525d200ca87dfc27ebc7&dn=Terraria&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+            ],
+            "uploadDate": "2025-06-10T18:42:30.000Z",
+            "fileSize": "0.5 GB"
         }
     ]
 }
